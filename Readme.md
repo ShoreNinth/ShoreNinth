@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### 现役设备 / Devices in use
 
-[![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R%20-F50514?style=flat-square&logo=oneplus&logoColor=ffffff)](#)
+[![OPPO Find X9 Pro](https://img.shields.io/badge/OPPO%20Find%20X9%20Pro%20-000000?style=flat-square&logo=oppo&logoColor=ffffff)](#)
 [![Lenovo Xiaoxin Pro14 IHU 2021](https://img.shields.io/badge/Lenovo%20XiaoXin%20Pro14%20IHU%202021-e12726?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![ALLDOCUBE](https://img.shields.io/badge/Alldocube%20iPlay%2050%20Pro-00aeef?style=flat-square&logo=android&logoColor=ffffff)](#)
 
